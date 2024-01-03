@@ -5,6 +5,7 @@
 [node name="main" type="Node2D"]
 
 [node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(93, 5)
 zoom = Vector2(3, 3)
 
 [node name="TileMap" parent="." instance=ExtResource("1_mcefc")]
